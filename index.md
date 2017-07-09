@@ -1,1 +1,1 @@
-good enough
+This is good enough.
